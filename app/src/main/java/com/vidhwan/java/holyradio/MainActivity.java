@@ -34,10 +34,10 @@ public class MainActivity extends AppCompatActivity {
         nonet = findViewById(R.id.nonet);
         pbar = findViewById(R.id.pbar);
 
-//        pbar.getIndeterminateDrawable().setColorFilter(0xF2C226,android.graphics.PorterDuff.Mode.MULTIPLY);
+        pbar.getIndeterminateDrawable().setColorFilter(0x006fbb,android.graphics.PorterDuff.Mode.MULTIPLY);
 
         wv.setWebViewClient(new WebViewClient());
-        wv.loadUrl("http://holyradio.in");
+        wv.loadUrl("http://yes2020.in");
 
 
         class WebViewClient extends android.webkit.WebViewClient {

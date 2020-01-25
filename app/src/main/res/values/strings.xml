@@ -1,9 +1,10 @@
 <resources>
-    <string name="app_name">Holyradio.in</string>
+    <string name="app_name">YES 2020</string>
     <string name="todo">TODO</string>
 
     <string name="title_activity_splash">splash</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="todo1">TODO</string>
+    <string name="jy_infopark_initiative">JY Infopark initiative</string>
 </resources>
